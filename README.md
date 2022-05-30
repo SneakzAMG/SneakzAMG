@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SneakzAMG
-- 🌱 I'm new to website programming.
-- 📫 How to reach me ```Sneakz#9999```
+- 👋 Hi, I’m @SneakzAMG.
+- 🌱 I lurn .lua.
+- 📫 How to reach me ```Sneakz#5622```.
 
 <!---
 SneakzAMG/SneakzAMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
